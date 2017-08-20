@@ -1,0 +1,1 @@
+/Users/yk_u/Documents/learning/app_class/ember/firstApp/tmp/funnel-input_base_path-upx80F3x.tmp/services/firebase-app.js

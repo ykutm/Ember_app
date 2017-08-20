@@ -1,0 +1,1 @@
+/Users/yk_u/Documents/learning/app_class/ember/firstApp/tmp/funnel-input_base_path-zEXJgfWR.tmp/serializers/embedded-records-mixin.js

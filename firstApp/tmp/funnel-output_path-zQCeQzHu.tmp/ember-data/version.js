@@ -1,0 +1,1 @@
+/Users/yk_u/Documents/learning/app_class/ember/firstApp/tmp/creator-output_path-DHMGKrt9.tmp/version.js
